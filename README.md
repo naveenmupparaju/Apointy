@@ -1,7 +1,7 @@
 # Apointy
 Task  Instagram Backend API
 
-Users shave the following attributes
+Users shave the following attributes :
 Id
 Name
 Email
