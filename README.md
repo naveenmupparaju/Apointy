@@ -12,3 +12,6 @@ Id
 Caption
 Image URL
 Posted Timestamp
+
+The API developed using Golang.
+MongoDB used for storage.
